@@ -567,19 +567,6 @@ button:not(:disabled),
   border-top-right-radius: calc(0.25rem - 1px);
 }
 
-/* rtl:begin:ignore */
-
-/* rtl:end:ignore */
-
-/* rtl:options: {
-  "autoRename": true,
-  "stringMap":[ {
-    "name"    : "prev-next",
-    "search"  : "prev",
-    "replace" : "next"
-  } ]
-} */
-
 .fixed-top {
   position: fixed;
   top: 0;
@@ -634,10 +621,6 @@ button:not(:disabled),
 .text-uppercase {
   text-transform: uppercase !important;
 }
-
-/* rtl:begin:remove */
-
-/* rtl:end:remove */
 
 .text-muted {
   --bs-text-opacity: 1;
@@ -778,7 +761,7 @@ p {
 header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
-  text-align: right;
+  text-align: center;
   color: #fff;
   background-image: url("../assets/img/header-bg.png");
   background-repeat: no-repeat;
