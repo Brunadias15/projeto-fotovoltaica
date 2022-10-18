@@ -567,19 +567,6 @@ button:not(:disabled),
   border-top-right-radius: calc(0.25rem - 1px);
 }
 
-/* rtl:begin:ignore */
-
-/* rtl:end:ignore */
-
-/* rtl:options: {
-  "autoRename": true,
-  "stringMap":[ {
-    "name"    : "prev-next",
-    "search"  : "prev",
-    "replace" : "next"
-  } ]
-} */
-
 .fixed-top {
   position: fixed;
   top: 0;
@@ -778,7 +765,7 @@ header.masthead {
   color: rgb(12, 12, 12);
   background-image: url("../assets/img/header.png");
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: local;
   background-position: center center;
   background-size: cover;
 }
