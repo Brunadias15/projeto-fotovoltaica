@@ -760,6 +760,7 @@ header.masthead {
   background-attachment: local;
   background-position: center center;
   background-size: cover;
+  max-width: 100%;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
