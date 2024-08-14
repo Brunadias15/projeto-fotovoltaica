@@ -757,7 +757,7 @@ header.masthead {
   text-align: right;
   color: rgb(12, 12, 12);
   background-image: url("../assets/img/header.png");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-attachment: local;
   background-position: center center;
   background-size: cover;
