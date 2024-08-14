@@ -71,8 +71,8 @@
 
 @media (prefers-reduced-motion: no-preference) {
   :root {
-    scroll-behavior: auto;
-    overflow-x: visible;
+    scroll-behavior: hidden;
+    overflow-x: hidden;
   }
 }
 body, html {
