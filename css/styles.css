@@ -774,8 +774,8 @@ header.masthead .masthead-subheading {
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 header.masthead .masthead-heading {
-  font-size: 3.25rem;
-  font-weight: 700;
+  font-size: 3.00rem;
+  font-weight: 600;
   line-height: 3.25rem;
   margin-bottom: 2rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
@@ -790,15 +790,15 @@ header.masthead .masthead-heading {
     background-size: cover;
   }
   header.masthead .masthead-subheading {
-    font-size: 2.25rem;
+    font-size: 2.75rem;
     font-style: italic;
     line-height: 2.25rem;
     margin-bottom: 2rem;
     background-size: cover;
   }
   header.masthead .masthead-heading {
-    font-size: 3.25rem;
-    font-weight: 700;
+    font-size: 3.00rem;
+    font-weight: 600;
     line-height: 4.5rem;
     margin-bottom: 4rem;
   }
