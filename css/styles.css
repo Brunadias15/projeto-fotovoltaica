@@ -75,6 +75,9 @@
     overflow-x: visible;
   }
 }
+body, html {
+  overflow-x: hidden; /* Desativa o scroll horizontal */
+}
 
 body {
   margin: 0;
