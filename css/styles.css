@@ -758,9 +758,9 @@ header.masthead {
   color: rgb(12, 12, 12);
   background-image: url("../assets/img/header.png");
   background-repeat: no-repeat;
-  background-attachment: local;
+  background-attachment: scroll; /* Alterado de local para scroll */
   background-position: center center;
-  background-size: cover;
+  background-size: contain; /* Alterado de cover para contain */
   width: 100%;
   height: auto;
 }
@@ -792,6 +792,7 @@ header.masthead {
     padding-top: 3rem;
     padding-bottom: 1.5rem;
     background-position: top center;
+    background-size: cover; /* Alterado para cover para telas pequenas */
   }
 }
 
